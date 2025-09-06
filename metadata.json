@@ -1,0 +1,5 @@
+{
+  "name": "图1背景，图二人物",
+  "description": "An application that seamlessly swaps characters between two images using AI. Users can upload a scene image and a character image, and the AI will generate a new, cohesive picture by integrating the character into the scene.",
+  "requestFramePermissions": []
+}
